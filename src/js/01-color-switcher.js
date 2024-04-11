@@ -1,4 +1,4 @@
-import Switcher from './switcher';
+import Switcher from './switcher-plugin';
 
 const refs = {
   btnStart: document.querySelector('button[data-start]'),
